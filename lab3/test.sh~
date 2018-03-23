@@ -1,0 +1,7 @@
+read a
+if [ $a -le "5" ]; then
+echo "number smaller than 5"
+elif [ $a -le '10' ]
+then
+echo 'greater than 5'
+fi

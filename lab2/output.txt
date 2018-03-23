@@ -1,0 +1,5 @@
+RegistrationNo:Name:Department:Branch:Section:Sub1:Sub2:Sub3
+16:Dhruv:cce:a:50:50:49
+60:andrej karpathy:cce:d:10:40:49
+1:andres:cce:b:20:30:49
+
